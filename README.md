@@ -23,12 +23,12 @@
     ⠀⠀⠈⢿⣷⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⡿⠁⠀⠀
     ⠀⠀⠀⠀⠙⠻⣿⣿⣶⣶⣶⣶⣶⣶⣿⣿⠟⠋⠀⠀⠀⠀
     ⠀⠀⠀⠀⠀⠀⠀⠉⠛⠛⠛⠛⠛⠛⠉⠀⠀⠀⠀⠀⠀⠀
-         THE ABYSS AWAITS...
+        THE ABYSS AWAITS...
 ```
 
 <br>
 
-> *"In the depths where light fears to tread, echoes of ancient powers whisper secrets long forgotten. Will you answer their call?"*
+> *"In The Depths Where Light Fears To Tread, Echoes Of Ancient Powers Whisper Secrets Long Fogotten. Will You Answer Their Call?"*
 
 ---
 
@@ -190,7 +190,7 @@ AETHER-DEPTHS-II-ABYSSAL-ECHOES-GAME-/
 
 *Screenshots coming soon...*
 
-> *"The deeper you go, the more the light fades. But in the darkness, new visions emerge..."*
+> *"The Deeper You Go, The More The Light Fades. But In The Darkness, New Visions Emerge..."*
 
 </div>
 
@@ -249,9 +249,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <br>
 
 ```
-                    ┏━━━━━━━━━━━━━━━━━━━━��━━━━━━━━━━━━━━━━━┓
-                    ┃  ～～～ THE DEPTHS ARE CALLING ～～～    ┃
-                    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+                ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+                ┃  ～～～ THE DEPTHS ARE CALLING ～～～   ┃
+                ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
      █████╗ ███████╗████████╗██╗  ██╗███████╗██████╗ 
     ██╔══██╗██╔════╝╚══██╔══╝██║  ██║██╔════╝██╔══██╗
@@ -287,10 +287,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
     ███████╗╚█████╔╝██║░░██║╚█████╔╝███████╗██████╔╝
     ╚══════╝░╚════╝░╚═╝░░╚═╝░╚════╝░╚══════╝╚═════╝░
 
-                    ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-                    ┃      🌊 WHERE DARKNESS SPEAKS...  🌊          ┃
-                    ┃         AND THE ABYSS ANSWERS                  ┃
-                    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+            ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+            ┃      🌊 WHERE DARKNESS SPEAKS...  🌊          ┃
+            ┃         AND THE ABYSS ANSWERS                  ┃
+            ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 ⭐ **Star this repository if you enjoyed the game!** ⭐
